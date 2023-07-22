@@ -95,7 +95,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#F4F4F4"
-            android:scrollbarTrackVertical="@mipmap/ic_calendar"
+
             android:text="Mensual "
             android:textColor="#6B6C6E" />
     </LinearLayout>
@@ -116,11 +116,11 @@
         android:layout_width="387dp"
         android:layout_height="46dp"
         android:layout_marginTop="15dp"
-        android:drawableEnd="@drawable/ic_c1"
+
         android:ems="10"
         android:hint="Duración de la inversion"
         android:inputType="text"
-        android:scrollbarTrackHorizontal="@mipmap/ic_calendar"
+
         app:layout_constraintEnd_toEndOf="@+id/linearLayout"
         app:layout_constraintStart_toStartOf="@+id/linearLayout"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
